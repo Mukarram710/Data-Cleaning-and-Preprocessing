@@ -1,3 +1,14 @@
+➡️ 🎯 Objectives
+
+- Explore the structure of raw data  
+- Identify and handle missing values  
+- Encode categorical variables  
+- Normalize/standardize numerical features  
+- Detect and remove outliers  
+- Export a clean dataset for ML tasks
+
+---
+
 ➡️ Data-Cleaning-and-Preprocessing
 My internship project where I learn to use different libraries of python such as pandas, numpy, Seaborn/Matplotlib
 
@@ -9,16 +20,7 @@ The dataset used is a version of the Titanic dataset, and the goal was to clean 
 
 ---
 
-➡️ 🎯 Objectives
 
-- Explore the structure of raw data  
-- Identify and handle missing values  
-- Encode categorical variables  
-- Normalize/standardize numerical features  
-- Detect and remove outliers  
-- Export a clean dataset for ML tasks
-
----
 
 ➡️ 🛠️ Tools & Libraries Used
 
