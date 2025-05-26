@@ -68,4 +68,10 @@ The dataset is now **clean, consistent**, and ready to be used in training machi
 - `Cleaned_Titanic.csv` – Final cleaned dataset  
 - `titanic_cleaning.ipynb` – Jupyter notebook containing all cleaning code
 
+---
+
+➡️ Overview
+
+The Data cleaning requires you to have a good understanding of python programming language and the libraries mentioned above. This helps in completing this task/Project efficiently.
+
 
